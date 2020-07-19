@@ -1,0 +1,28 @@
+{
+  "name": "smallscripts",
+  "version": "1.0.0",
+  "description": "Small scripts I like to have available",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanrasmussen/smallscripts.git"
+  },
+  "keywords": [
+    "small",
+    "scripts",
+    "utilities"
+  ],
+  "author": "bryan rasmussen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanrasmussen/smallscripts/issues"
+  },
+  "homepage": "https://github.com/bryanrasmussen/smallscripts#readme"
+}
