@@ -4,7 +4,11 @@
   "description": "Small scripts I like to have available",
   "main": "index.js",
   "dependencies": {
-    "child_process": "^1.0.2"
+    "@canvas/image": "^1.0.1",
+    "blockhash-core": "^0.1.0",
+    "canvas": "^2.6.1",
+    "child_process": "^1.0.2",
+    "find-duplicate-files": "0.0.10"
   },
   "devDependencies": {},
   "scripts": {
@@ -24,5 +28,6 @@
   "bugs": {
     "url": "https://github.com/bryanrasmussen/smallscripts/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/bryanrasmussen/smallscripts#readme"
 }
